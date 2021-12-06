@@ -4,7 +4,7 @@
 
 This repository is for AIPI 530 Offline Deep Learning Final Project. The objective is to build a pipeline for offline RL. 
 
-Before starting, please check out my blog which includes dicussions about following reinforcement learning topics:
+Before starting, please check out my [blog](https://medium.com/@WalkerWang000/reinforcement-learning-a77ec467e8c6) which includes dicussions about following reinforcement learning topics:
 * What is reinforcement learning ? <br/>
 * What are the pros and cons of reinforcement learning ? <br/>
 * When should we consider applying reinforcement learning (and when should not) ? <br/>
