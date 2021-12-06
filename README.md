@@ -21,11 +21,13 @@ Before starting, please check out my blog which includes dicussions about follow
 ## Get Started
 1. **Hyperparameter** : You can modify the parameters of the model in train_cql.py, such as n_epochs, learning rate, score function, etc.  
 ***Path:*** ```AIPI-530-Final-Project/blob/main/examples/pybullet/train_cql.py```
-2. **Execution:** Run ```!python train_cql.py```. Default environment is ```hopper-bullet-mixed-v0```
+2. **Execution:** Run ```train_cql.py``` in Python. The default environment is ```hopper-bullet-mixed-v0```
 3. **Training Logs**: Logs are stored in the path ```/content/drive/MyDrive/repos/d3rlpy/examples/pybullet/d3rlpy_logs```
    * CQL Average reward vs training steps: ```d3rlpy_logs/CQL_20211206002515/environment.csv```
    * CQL Estimated Q values vs training steps: ```d3rlpy_logs/CQL_20211206002515/init_value.csv```
    * OPE (FQE) Estimated Q vs training steps: ```d3rlpy_logs/FQE_20211206010231/init_value.csv```
+   
+    Please note: the name of ```.csv``` files will be changed everytime your execute ```train_cql.py```
 
 4. **Train CQL**
 ![img.jpg](https://github.com/WalkerWang000/AIPI-530-Final-Project/blob/main/CQL.JPG)
