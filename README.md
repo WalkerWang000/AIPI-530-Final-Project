@@ -5,12 +5,12 @@
 This repository is for AIPI 530 Offline Deep Learning Final Project. The objective is to build a pipeline for offline RL. 
 
 Before starting, please check out my [blog](https://medium.com/@WalkerWang000/reinforcement-learning-a77ec467e8c6) which includes dicussions about following reinforcement learning topics:
-* What is reinforcement learning ? <br/>
-* What are the pros and cons of reinforcement learning ? <br/>
-* When should we consider applying reinforcement learning (and when should not) ? <br/>
-* What's the difference between supervised learning and reinforcement learning ? <br/>
-* What is offline reinforcement learning ? What are the pros and cons of offline reinforcement learning ? <br/>
-* When should we consider applying offline reinforcement learning (and when should not) ? <br/>
+* What is reinforcement learning? <br/>
+* What are the pros and cons of reinforcement learning? <br/>
+* When should we consider applying reinforcement learning and when should not? <br/>
+* What's the difference between supervised learning and reinforcement learning? <br/>
+* What is offline reinforcement learning? What are the pros and cons of offline reinforcement learning? <br/>
+* When should we consider applying offline reinforcement learning and when should not? <br/>
 * An example of offline reinforcement learning in the real-world <br/>
 
 ## Installation
