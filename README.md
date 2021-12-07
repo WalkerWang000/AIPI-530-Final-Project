@@ -9,9 +9,8 @@ Before starting, please check out my [blog](https://medium.com/@WalkerWang000/re
 * What are the pros and cons of reinforcement learning? <br/>
 * When should we consider applying reinforcement learning and when should not? <br/>
 * What's the difference between supervised learning and reinforcement learning? <br/>
-* What is offline reinforcement learning? What are the pros and cons of offline reinforcement learning? <br/>
-* When should we consider applying offline reinforcement learning and when should not? <br/>
-* An example of offline reinforcement learning in the real-world <br/>
+* What is offline reinforcement learning? <br/>
+* What are the pros and cons of offline reinforcement learning? <br/>
 
 ## Installation
 1. **Clone this repository** : ```https://github.com/WalkerWang000/AIPI-530-Final-Project```
